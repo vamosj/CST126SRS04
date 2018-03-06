@@ -30,7 +30,7 @@ You may obtain your list from multiple sources. Here are a couple of examples to
 - [10 Famous Women in Tech History](https://insights.dice.com/2016/03/14/10-famous-women-in-tech-history/)
 - [Wikipedia: Women In Computing](https://en.wikipedia.org/wiki/Women_in_computing)
 
-
+```
 Create a class named CSWoman as follows:  
 
 class CSWoman  
@@ -45,6 +45,7 @@ public:
 
 // ... and other methods  
 };  
+```
 
 Create 10 CSWoman objects on the heap, each representing a woman pioneer in the field of Computer Science. Provide the information described in the CSWoman ctor described above.  
 
