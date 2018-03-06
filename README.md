@@ -33,17 +33,17 @@ You may obtain your list from multiple sources. Here are a couple of examples to
 
 Create a class named CSWoman as follows:  
 
-class CSWoman
-{
-private:
-	const std::string name_;
-	const unsigned birthYear_;
-	const std::string fact_;
+class CSWoman  
+{  
+private:  
+    const std::string name_;  
+    const unsigned birthYear_;  
+    const std::string fact_;  
 
-public:
-	CSWoman(const char* const name, const unsigned birthYear, const char* const fact);
+public:  
+    CSWoman(const char* const name, const unsigned birthYear, const char* const fact);
 
-// ... and other methods
+// ... and other methods  
 };  
 
 Create 10 CSWoman objects on the heap, each representing a woman pioneer in the field of Computer Science. Provide the information described in the CSWoman ctor described above.  
