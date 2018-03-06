@@ -25,7 +25,11 @@ Name your project "WICLL".
 
 Choose 10 women computer scientists for this project.  
 
-You can obtain a list from [Wikipedia: Women In Computing](https://en.wikipedia.org/wiki/Women_in_computing), but any source will work.  
+You may obtain your list from multiple sources. Here are a couple of examples to get you started:
+
+- [10 Famous Women in Tech History](https://insights.dice.com/2016/03/14/10-famous-women-in-tech-history/)
+- [Wikipedia: Women In Computing](https://en.wikipedia.org/wiki/Women_in_computing)
+
 
 Create a class named CSWoman as follows:  
 
@@ -46,7 +50,7 @@ Create 10 CSWoman objects on the heap, each representing a woman pioneer in the 
 
 Place each into a singly-linked list data structure.  
 
-Print the list in order.  
+Print the list in any order.  
 
 Reverse the list using the provided algorithm.  
 
